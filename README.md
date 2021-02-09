@@ -1,1 +1,1 @@
-# CRISPRa-i_Systems_BioCRNPyler_Carothers
+# CRISPRa/i Systems BioCRNPyler
